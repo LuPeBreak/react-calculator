@@ -13,7 +13,7 @@ const rotate = keyframes`
 export const Container = styled.div`
   width: 100%;
   height: 100vh;
-  background-color: #c0c0c0;
+  background-color: #D4D4FF;
 
   display: flex;
   flex-direction: column;
